@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devhiteshuk
-- 👀 I’m interested in developing mobile application, UI/UX design, Learning new technology stack
-- 🌱 I’m currently pursuing MSc Information System from University of Portsmoutch
-- 💞️ I’m looking to collaborate on ...
-- 📫 Please say hi at dev.hitesh.uk@gmail.com
+👋 Hi, I’m Hitesh, a passionate Big Data Engineer
+👀 I specialize in big data technologies, data pipelines, distributed computing, and cloud solutions. I have hands-on experience with tools like Hadoop, Spark, Kafka, and AWS/Azure for scalable data processing.
+💻 Proficient in building and optimizing data architectures, creating ETL workflows, and implementing machine learning models for data-driven insights.
+🚀 Always eager to collaborate on innovative data engineering projects, real-time data processing, and cutting-edge cloud technologies.
+
 
 <!---
 devhiteshuk/devhiteshuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
