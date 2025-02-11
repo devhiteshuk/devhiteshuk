@@ -1,4 +1,4 @@
-👋 Hi, I’m @devhiteshuk, a passionate Big Data Engineer
+👋 Hi, I’m @Hitesh, a passionate Big Data Engineer
 
 👀 I specialize in big data technologies, data pipelines, distributed computing, and cloud solutions. I have hands-on experience with tools like Hadoop, Spark, Kafka, and AWS/Azure for scalable data processing.
 
